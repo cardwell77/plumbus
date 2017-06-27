@@ -1,0 +1,29 @@
+[22:18:12] [main/INFO]: Setting user: Player479
+[22:18:14] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:18:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:sharkmod1
+[22:18:25] [Sound Library Loader/INFO]: Sound engine started
+[22:18:27] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[22:18:27] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[22:18:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:sharkmod1
+[22:18:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:18:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:18:29] [Sound Library Loader/INFO]: Sound engine started
+[22:18:32] [Client thread/WARN]: Unable to start LAN server detection: Can't assign requested address
+[22:18:37] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:18:37] [Server thread/INFO]: Generating keypair
+[22:18:37] [Server thread/INFO]: Preparing start region for level 0
+[22:18:38] [Server thread/INFO]: Preparing spawn area: 52%
+[22:18:39] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:18:39] [Server thread/INFO]: Player479[local:E:e2b4a0c4] logged in with entity id 373 at (-129.5, 67.0, 262.5)
+[22:18:39] [Server thread/INFO]: Player479 joined the game
+[22:18:42] [Server thread/INFO]: Player479 has just earned the achievement [Taking Inventory]
+[22:18:42] [Client thread/INFO]: [CHAT] Player479 has just earned the achievement [Taking Inventory]
+[22:26:09] [Client thread/INFO]: Stopping!
+[22:26:09] [Server thread/INFO]: Stopping server
+[22:26:09] [Server thread/INFO]: Saving players
+[22:26:09] [Server thread/INFO]: Saving worlds
+[22:26:09] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:26:09] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:26:09] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:26:09] [Client Shutdown Thread/INFO]: Stopping server
+[22:26:09] [Client Shutdown Thread/INFO]: Saving players
